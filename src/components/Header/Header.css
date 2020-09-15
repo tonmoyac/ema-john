@@ -1,0 +1,27 @@
+.Header img{
+   height: 80px; 
+}
+.Header{
+    text-align: center;
+}
+.Header nav{
+    background-color: #000;
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 20px;
+    padding: 5px;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: rgb(20, 13, 13);
+}
+
+.loggedInUserName{
+    display: inline;
+    color:#FF9800;
+    margin-right: 5px;
+}
